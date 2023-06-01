@@ -1,0 +1,27 @@
+{
+  "name": "sienna",
+  "displayName": "Sienna",
+  "description": "A warm and earthy colour with a rustic elegance dark theme for VSCode.",
+  "publisher": "kelvinampofo",
+  "license": "MIT",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kelvinampofo/sienna"
+  },
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sienna",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sienna-dark-color-theme.json"
+      }
+    ]
+  }
+}
