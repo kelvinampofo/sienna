@@ -1,4 +1,4 @@
-# Sienna
+## Sienna
 
 A warm and rustic coloured dark theme for VSCode.
 
